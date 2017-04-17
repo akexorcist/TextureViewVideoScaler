@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Texture View Video Scaler</string>
+
+    <string name="fit">Fit</string>
+    <string name="fill">Fill</string>
+    <string name="crop">Crop</string>
+</resources>
